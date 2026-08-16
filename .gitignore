@@ -1,0 +1,9 @@
+# 内部审美校准参考图，来自 Twitter 用户，版权不明，不能公开分发
+assets/inspiration-DO-NOT-PUBLISH/
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统文件
+.DS_Store
