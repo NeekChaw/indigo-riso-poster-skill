@@ -63,7 +63,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<your-username>/indigo-riso-poster-skill.git
+git clone https://github.com/NeekChaw/indigo-riso-poster-skill.git
 mkdir -p ~/.codex/skills
 cp -R indigo-riso-poster-skill ~/.codex/skills/
 ```
