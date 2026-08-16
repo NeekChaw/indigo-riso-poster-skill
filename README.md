@@ -4,6 +4,8 @@
 
 不是滤镜，不是风格迁移。核心是一套丝网印刷（riso print）双色套印的视觉语法：用网点疏密代替传统渐变，用严格的色彩纪律和留白比例，对抗 AI 图像生成里默认的堆砌感与光滑感。
 
+> **English**: A Codex / Claude Code skill that turns a single theme word or image into a limited-palette indigo-and-cream duotone poster. Uses riso-print halftone dots instead of smooth gradients, with strict color discipline and negative-space rules. Default in-image minimal caption (落款/呼应/节奏 three roles). Keywords: riso print, risograph, duotone poster, halftone dots, indigo blue, cream paper, minimal poster, AI image generation, prompt engineering, Claude skill, Codex skill.
+
 <p align="center">
   <img src="assets/examples/01-horizon-mast-fog.png" width="49%" />
   <img src="assets/examples/06-vertical-incense-smoke.png" width="24%" />
@@ -40,11 +42,15 @@
 **竖版**
 
 <p align="center">
-  <img src="assets/examples/05-vertical-staircase-fog.png" width="22%" />
-  <img src="assets/examples/06-vertical-incense-smoke.png" width="22%" />
-  <img src="assets/examples/07-vertical-river-lanterns.png" width="22%" />
-  <img src="assets/examples/08-vertical-winter-tree.png" width="22%" />
-  <img src="assets/examples/10-density-extension-whale.png" width="22%" />
+  <img src="assets/examples/05-vertical-staircase-fog.png" width="40%" />
+  <img src="assets/examples/06-vertical-incense-smoke.png" width="40%" />
+</p>
+<p align="center">
+  <img src="assets/examples/07-vertical-river-lanterns.png" width="40%" />
+  <img src="assets/examples/08-vertical-winter-tree.png" width="40%" />
+</p>
+<p align="center">
+  <img src="assets/examples/10-density-extension-whale.png" width="40%" />
 </p>
 
 ## 安装
@@ -121,6 +127,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+---
+
+## 关键词 / Keywords
+
+**中文**：靛蓝海报、蓝白海报、riso 印刷、丝网印刷、网点渐变、半调网点、双色调海报、极简海报、米白纸、Claude skill、Codex skill、AI 生图、提示词工程、意境海报、壁纸生成、限定色系、版画风格
+
+**English**: indigo riso poster, duotone poster, risograph print, halftone dot gradient, screen print style, minimal poster, cream paper, blue and cream, Claude Code skill, Codex skill, AI image generation, prompt engineering, limited palette, negative space poster, wallpaper generator, print texture, editorial poster
 
 ---
 
