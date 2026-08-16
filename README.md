@@ -35,7 +35,6 @@
 </p>
 <p align="center">
   <img src="assets/examples/12-horizon-misty-mountains-layered.png" width="45%" />
-  <img src="assets/examples/10-density-extension-whale.png" width="45%" />
 </p>
 
 **竖版**
@@ -45,20 +44,8 @@
   <img src="assets/examples/06-vertical-incense-smoke.png" width="22%" />
   <img src="assets/examples/07-vertical-river-lanterns.png" width="22%" />
   <img src="assets/examples/08-vertical-winter-tree.png" width="22%" />
+  <img src="assets/examples/10-density-extension-whale.png" width="22%" />
 </p>
-
-## 配文（默认行为）
-
-每张海报**默认带一句极简文字**——从意象提炼出来的一句话（中文）或不超过 5 个词的短句（英文），按三种角色之一处理：落款式（安静的签名感）、呼应式（与画面结构发生关系）、节奏式（文字参与网点消散）。文字与画面一次生成，不做后期叠加，因此字和图共享同一层纸的颗粒、墨的咬合、印刷的压力感。
-
-文字设计遵循四变量系统（墨色浓度 / 笔画性格 / 空间关系 / 时间感），仅有的例外是用户明确说"不要文字"。
-
-<p align="center">
-  <img src="assets/typography-demo/chair-captioned.png" width="45%" />
-  <img src="assets/typography-demo/whale-captioned.png" width="45%" />
-</p>
-
-详见 `references/typography-spec.md`（排版角色、四变量系统、prompt 写法示例）。`scripts/auto_caption.py` 是历史遗留的后期叠加工具，当前流程已不使用。
 
 ## 安装
 
