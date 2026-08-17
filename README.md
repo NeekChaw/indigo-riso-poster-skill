@@ -7,8 +7,7 @@
 > **English**: A Codex / Claude Code skill that turns a single theme word or image into a limited-palette indigo-and-cream duotone poster. Uses riso-print halftone dots instead of smooth gradients, with strict color discipline and negative-space rules. Default in-image minimal caption (落款/呼应/节奏 three roles). Keywords: riso print, risograph, duotone poster, halftone dots, indigo blue, cream paper, minimal poster, AI image generation, prompt engineering, Claude skill, Codex skill.
 
 <p align="center">
-  <img src="assets/examples/01-horizon-mast-fog.png" width="49%" />
-  <img src="assets/examples/06-vertical-incense-smoke.png" width="24%" />
+  <img src="assets/examples/00-hero-night-sea-caption.png" width="80%" />
 </p>
 
 ## 这是什么
