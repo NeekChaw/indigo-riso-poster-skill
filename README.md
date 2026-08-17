@@ -18,7 +18,7 @@
 - **网点渐变**：所有的"渐变"都不是模糊出来的，是网点从实色到稀疏到消失，密度变化必须跟着物理逻辑走（扩散方向、光源、空气透视）
 - **留白优先**：主体锚点通常不超过画面 5%-45%，取决于构图类型，大面积留白是这套系统的呼吸感来源
 - **默认配文**：每张图自带一句极简文字（落款/呼应/节奏三选一），文字与画面一次生成，共享同一层纸墨颗粒，不是后期贴上去的说明
-- **专色点缀（Accent）**：唯一允许跳出色系的例外，条件卡得很死——只能是光源语义、全图一处、面积极小
+- **专色点缀（Accent）**：唯一允许跳出色系的例外，条件卡得很死——必须是"意义奇点"（拿掉它意象的核心意义就塌了的那一点，如一点光、一朵花）、默认全图一处、面积极小
 
 详细规则见 [`SKILL.md`](SKILL.md) 和 `references/` 目录。
 
@@ -36,6 +36,7 @@
 </p>
 <p align="center">
   <img src="assets/examples/12-horizon-misty-mountains-layered.png" width="45%" />
+  <img src="assets/examples/13-static-red-flower-accent.png" width="45%" />
 </p>
 
 **竖版**
@@ -50,6 +51,7 @@
 </p>
 <p align="center">
   <img src="assets/examples/10-density-extension-whale.png" width="40%" />
+  <img src="assets/examples/14-vertical-snow-window.png" width="40%" />
 </p>
 
 ## 安装
@@ -89,7 +91,7 @@ indigo-riso-poster-skill/
 │   ├── prompt-template.md          # 中英文生成提示词模板
 │   └── typography-spec.md          # 配文排版规范（角色驱动，非固定模板）
 └── assets/
-    └── examples/                   # 本 README 中的 8 张展示图
+    └── examples/                   # 本 README 中的展示图
 ```
 
 ## 设计原则
